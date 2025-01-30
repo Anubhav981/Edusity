@@ -25,11 +25,6 @@
   <li>Contact form for user inquiries 📧</li>
 </ul>
 
-<p><strong>Admin Features:</strong> 🧑‍💻</p>
-<ul>
-  <li>Manage course and tutorial content 🔧</li>
-  <li>Update website content as needed 📝</li>
-</ul>
 
 ## Usage 🚀
 
