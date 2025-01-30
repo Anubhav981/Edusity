@@ -1,8 +1,47 @@
-# Edusity
-The frontend of Edusity is designed to provide a user-friendly and engaging experience for both students and educators. It focuses on intuitive navigation, interactive elements, and responsive design to ensure accessibility across all devices.
+# Edusity - Educational Website 🏫
 
-1.User Interface (UI): The interface is clean and easy to navigate, with clear menus and icons. It uses intuitive layouts to help users quickly find courses, manage schedules, and access resources.<br>
-<br>
-2.Responsive Design: The frontend adapts to different screen sizes and devices, ensuring a consistent experience whether users are on a desktop, tablet, or mobile device.<br>
-<br>
-3Feedback and Support System: Users can provide feedback on courses and instructors, and access support through chatbots or contact forms, ensuring their queries are addressed promptly.
+**Edusity** is a responsive, interactive educational platform built using React.js. It is designed to provide users with an intuitive interface to access courses, tutorials, and learning materials. The website is fully responsive and optimized for different screen sizes, offering smooth navigation and an engaging user experience.
+
+## Table of Contents 📑
+
+- [Technologies Used](#technologies-used)
+- [Features](#features)
+- [Usage](#usage)
+- [Contributors](#contributors)
+
+## Technologies Used ⚙️
+
+<p>**Frontend**: React.js, React Router, CSS, Tailwind</p>
+<p>**Others**: Responsive design, smooth scrolling, image slider, contact form integration</p>
+
+## Features ✨
+
+<p><strong>User Features:</strong> 👤</p>
+<ul>
+  <li>Browse available courses and tutorials 🎓</li>
+  <li>Responsive layout for desktop and mobile devices 📱</li>
+  <li>Smooth scrolling for a seamless user experience 🖱️</li>
+  <li>Image slider to showcase featured content 📸</li>
+  <li>Contact form for user inquiries 📧</li>
+</ul>
+
+<p><strong>Admin Features:</strong> 🧑‍💻</p>
+<ul>
+  <li>Manage course and tutorial content 🔧</li>
+  <li>Update website content as needed 📝</li>
+</ul>
+
+## Usage 🚀
+
+<p>After cloning the repository, run the following command in your terminal to start the development server:</p>
+```bash
+npm start
+```
+
+<p>The website will be accessible at <strong>http://localhost:3000</strong>. Enjoy exploring the educational content!</p>
+
+## Contributors 👥
+
+<p>Anubhav - [GitHub](https://github.com/Anubhav981/Edusity)</p>
+
+---
